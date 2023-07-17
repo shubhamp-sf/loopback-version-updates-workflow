@@ -1,4 +1,7 @@
-import {ApplicationConfig, LoopbackVersionUpdatesWorkflowApplication} from './application';
+import {
+  ApplicationConfig,
+  LoopbackVersionUpdatesWorkflowApplication,
+} from './application';
 
 export * from './application';
 
